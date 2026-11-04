@@ -1,0 +1,80 @@
+id: W3
+title: Address a performance, attendance or conduct concern fairly
+trigger: An observable work, attendance or conduct concern is raised.
+owner_role: hr
+inputs:
+- Justified expectation and observable evidence
+- Access, training, workload and adjustment delivery
+- Employee response and applicable procedure
+interim_support: Maintain accessible support and urgent safety routes while the process runs.
+steps:
+- id: describe
+  title: Describe the concern
+  owner_role: line_manager
+  action: Use actual work evidence, not personality, eye contact or speculation about health.
+  evidence: Specific expectation and concern stated accessibly.
+  next_step: check
+- id: check
+  title: Check organisational barriers
+  owner_role: line_manager
+  action: Check tools, instructions, training, workload and whether agreed support was delivered.
+  evidence: Facts separated from assumptions; access failures identified.
+  next_step: listen
+- id: listen
+  title: Hear the person
+  owner_role: hr
+  action: Give usable information, preparation and response routes; consider support or accompaniment where applicable.
+  evidence: Response, disputed facts and requested support recorded privately.
+  next_step: plan
+- id: plan
+  title: Correct access and agree a fair plan
+  owner_role: line_manager
+  action: Repair barriers and set sustainable expectations, support and review. Do not delay urgent harassment or
+    safety action.
+  evidence: Actions have owners, evidence and review dates.
+  next_step: formal
+- id: formal
+  title: Use a fair formal route if needed
+  owner_role: hr
+  action: Check current rights, jurisdiction, procedure access and decision authority; give reasons and independent
+    appeal.
+  evidence: Consequential decision is human, authorised and challengeable.
+  next_step: review
+- id: review
+  title: Review outcomes and learning
+  owner_role: hr
+  action: Check whether arrangements worked and the decision process was accessible; record corrections in approved
+    systems.
+  evidence: Closure includes outstanding support and challenge routes.
+  next_step: null
+escalation: Use HR/legal for serious, disputed or rights-sensitive decisions; a person can use an independent route
+  where their manager is implicated.
+boundaries:
+- Investigating barriers does not excuse misconduct or prove all concerns are disability-related. Actual case data
+  stays outside GitHub.
+review: Agree a review date, check the outcome with the affected person, and reopen ineffective arrangements.
+closure: Record the outcome, remaining work, continuing support and accessible challenge route. No automatic closure
+  on equipment purchase or form completion.
+canonical_path: workflows/fair-performance.md
+template_paths:
+- templates/performance-review.md
+- templates/return-to-work.md
+- templates/formal-meeting-access.md
+status: draft
+execution_mode: human_decision_support_only
+decisions:
+- at_step: check
+  condition: Organisational access failure identified
+  next_step: plan
+  requires_role: line_manager
+  evidence: Human decision and reasons recorded privately; maintain practical support and applicable challenge route.
+- at_step: listen
+  condition: Manager implicated or decision seriously disputed
+  next_step: escalate
+  requires_role: hr
+  evidence: Human decision and reasons recorded privately; maintain practical support and applicable challenge route.
+- at_step: formal
+  condition: Decision challenged
+  next_step: escalate
+  requires_role: hr
+  evidence: Human decision and reasons recorded privately; maintain practical support and applicable challenge route.

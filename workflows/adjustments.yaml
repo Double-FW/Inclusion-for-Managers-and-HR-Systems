@@ -1,0 +1,83 @@
+id: W1
+title: Remove a barrier and review an adjustment
+trigger: A request, observed difficulty or change in circumstances.
+owner_role: line_manager
+inputs:
+- A private account of the task, barrier and preferred support
+- Any urgent access, safety or privacy impact
+- Existing arrangements and what may be shared
+interim_support: Address urgent access and safe cover; agree minimum necessary sharing. Involve the service owner
+  where needed.
+steps:
+- id: receive
+  title: Receive and acknowledge
+  owner_role: line_manager
+  action: Accept any usable route; do not wait for a form, diagnosis or legal terminology. Ask privately about work
+    and preferred support.
+  evidence: A named coordinator and next update date; no diagnosis required.
+  next_step: stabilise
+- id: stabilise
+  title: Provide interim access
+  owner_role: line_manager
+  action: Address urgent access and safe cover; agree minimum necessary sharing. Involve the service owner where
+    needed.
+  evidence: Interim support, escalation and dependencies recorded.
+  next_step: explore
+- id: explore
+  title: Explore options
+  owner_role: process_owner
+  action: Consider tools, methods, environment and working arrangements with the person and relevant owners. Explain
+    why any functional advice is needed.
+  evidence: Options, impacts and the person’s preferences recorded.
+  next_step: decide
+- id: decide
+  title: Make and explain the decision
+  owner_role: hr
+  action: Confirm authority, funding, owner and timing; explain any refusal and alternatives. Refer disputed legal
+    questions appropriately.
+  evidence: An accessible decision with a review/challenge route.
+  next_step: implement
+- id: implement
+  title: Implement and verify
+  owner_role: process_owner
+  action: Test actual work with the individual; check privacy, effort, control and timeliness.
+  evidence: Observed effectiveness and unresolved work recorded.
+  next_step: review
+- id: review
+  title: Review or reopen
+  owner_role: line_manager
+  action: Review at the agreed time and after changes to work, manager, location, technology or needs. Reopen ineffective
+    arrangements.
+  evidence: Close only when support works and review/ownership continue.
+  next_step: null
+escalation: Escalate unresolved funding or delivery to accountable leadership and HR; contested reasonableness to
+  HR/legal; concerns about the manager through an independent route.
+boundaries:
+- Do not suspend urgent practical support while awaiting a diagnosis, grant or non-essential paperwork.
+review: Agree a review date, check the outcome with the affected person, and reopen ineffective arrangements.
+closure: Record the outcome, remaining work, continuing support and accessible challenge route. No automatic closure
+  on equipment purchase or form completion.
+canonical_path: workflows/adjustments.md
+template_paths:
+- templates/adjustment-request.md
+- templates/adjustment-decision.md
+- templates/adjustment-review.md
+- templates/workplace-passport.md
+status: draft
+execution_mode: human_decision_support_only
+decisions:
+- at_step: stabilise
+  condition: Urgent safety or confidentiality risk remains
+  next_step: escalate
+  requires_role: hr
+  evidence: Human decision and reasons recorded privately; maintain practical support and applicable challenge route.
+- at_step: decide
+  condition: Request refused or legal reasonableness disputed
+  next_step: escalate
+  requires_role: hr
+  evidence: Human decision and reasons recorded privately; maintain practical support and applicable challenge route.
+- at_step: review
+  condition: Arrangement ineffective or circumstances changed
+  next_step: explore
+  requires_role: line_manager
+  evidence: Human decision and reasons recorded privately; maintain practical support and applicable challenge route.
