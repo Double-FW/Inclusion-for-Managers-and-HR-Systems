@@ -1,0 +1,1134 @@
+version: 0.1.0
+records:
+- id: IE-FND-001
+  title: What inclusion means
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Inclusion is the continuing work of making opportunity and participation real. Someone can be employed
+    yet excluded from information, decisions, informal networks, benefits or promotion. Ask what the person can
+    do, influence and access, and what avoidable effort is required. An invitation or supportive intention is not
+    enough.
+  outcome: People can participate, influence decisions and progress with dignity.
+  barriers:
+  - meaning
+  owner_role: executive_sponsor
+  workflow_id: W1
+  canonical_path: docs/01-foundations.md#meaning
+  limitations: Do not claim that identical conditions, identical speed or legal conformance alone establish inclusion.
+  source_ids:
+  - BRIEF
+  - DFW-03
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-FND-002
+  title: Individuals and intersecting barriers
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Ask what helps with this task in this setting, and what the person wants to try. Disabled, Deaf and
+    neurodivergent identities overlap but are not interchangeable. People with the same diagnosis may have different
+    needs; someone may not identify as disabled or may not have a diagnosis. Ask about identity-first or person-first
+    language when relevant and respect the answer without repeatedly requiring explanation.
+  outcome: Support follows the person and their work rather than a diagnostic stereotype.
+  barriers:
+  - individuals
+  owner_role: line_manager
+  workflow_id: W1
+  canonical_path: docs/01-foundations.md#individuals
+  limitations: No diagnosis, strength profile, masking judgement or limitation may be inferred from behaviour or
+    identity.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-FND-003
+  title: Working glossary and shared responsibility
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: An adjustment is an agreed change to reduce a barrier; a reasonable adjustment has a specific legal
+    context explained in the legal module. Universal provision means an accessible default available without individual
+    negotiation. AAC means augmentative and alternative communication, including typed and device-mediated communication.
+    Assistive technology includes screen readers, magnification, alternative input and other support; it depends
+    on compatible systems and cannot repair every defect.
+  outcome: People can use the guidance without specialist vocabulary.
+  barriers:
+  - glossary
+  owner_role: hr
+  workflow_id: W1
+  canonical_path: docs/01-foundations.md#glossary
+  limitations: Employee networks and champions support action; they do not replace accountable owners or legal duties.
+  source_ids:
+  - BRIEF
+  - DFW-17
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-REC-001
+  title: Specify essential outcomes
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - hiring_managers
+  - hr
+  lifecycle_stages:
+  - recruitment
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Begin with the purpose of the role, its essential tasks and the evidence that would show someone can
+    perform them with appropriate support. Replace inherited requirements such as “dynamic multitasker”, “confident
+    personality” and “excellent communicator” with the actual task, audience and outcome. A tester might need to
+    document a reproducible fault; that does not automatically require confident public speaking. Do not assume
+    technical jobs have no communication duties.
+  outcome: Candidates are assessed against work that is genuinely required.
+  barriers:
+  - role-outcomes
+  owner_role: hiring_manager
+  workflow_id: W1
+  canonical_path: docs/02-recruitment.md#role-outcomes
+  limitations: Anonymisation can reduce some cues; it does not remove bias from criteria or scoring.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-REC-002
+  title: Prepare and assess fairly
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - hiring_managers
+  - hr
+  lifecycle_stages:
+  - recruitment
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Give candidates the criteria, format, practical access details and preparation materials early. As
+    a proposed local default, share interview questions and tasks at least five working days ahead. This is not
+    a statutory period. If unrehearsed performance is essential, document why and design a fair accessible assessment;
+    do not turn test security into a blanket refusal of adjustments.
+  outcome: Applicants can demonstrate relevant competence through accessible assessment.
+  barriers:
+  - assessment
+  owner_role: hiring_manager
+  workflow_id: W1
+  canonical_path: docs/02-recruitment.md#assessment
+  limitations: Five days and paid-trial design are proposed practice; section 60 health-question restrictions have
+    separate legal authority.
+  source_ids:
+  - BRIEF
+  - L6
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-REC-003
+  title: Selection boundaries and evidence
+  authority_type: organisational_policy
+  directive: must
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - recruitment
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: 'Proposed policy: do not use personality typologies, personality-fit scores or unsupported trait inferences
+    for selection, performance, task opportunity or promotion. Prefer role-relevant evidence. Do not repeat the
+    claim that every psychometric method is fake science: instrument quality and intended use need specific evaluation.
+    Any proposed cognitive or aptitude test needs documented necessity, validity, accessibility, professional review,
+    adjustment arrangements and a challenge route.'
+  outcome: Selection does not rely on personality conformity or covert profiling.
+  barriers:
+  - selection-boundaries
+  owner_role: hr
+  workflow_id: W1
+  canonical_path: docs/02-recruitment.md#selection-boundaries
+  limitations: These selection restrictions are proposed repository policy, not a claim that every excluded activity
+    is inherently unlawful.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-ONB-001
+  title: Make the first day workable
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - onboarding
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: 'Confirm the start arrangements privately before the person arrives: building access or remote setup,
+    accessible induction, accounts, authentication, equipment, support-worker arrangements and a contact for failures.
+    Test the actual workflow, not just whether a licence has been bought. Supply concise written steps, examples
+    and an accessible induction timetable.'
+  outcome: People begin with usable tools, information and support.
+  barriers:
+  - ready-to-start
+  owner_role: line_manager
+  workflow_id: W1
+  canonical_path: docs/03-onboarding.md#ready-to-start
+  limitations: Do not wait for a passport, diagnosis or external funding before arranging ordinary practical support.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-ONB-002
+  title: Use an optional confidential passport
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - onboarding
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Offer a short passport stating functional barriers, useful arrangements, owners, review triggers and
+    agreed sharing. The employee should be able to check and correct it. Store it only in the employer's approved
+    confidential system, with access limited to roles that need the information. The blank template in this repository
+    must never be completed with real data on GitHub.
+  outcome: Agreed support survives transitions without unnecessary repeated disclosure.
+  barriers:
+  - passport
+  owner_role: hr
+  workflow_id: W1
+  canonical_path: docs/03-onboarding.md#passport
+  limitations: Agreement about practical sharing does not by itself establish a lawful basis for all health-data
+    processing.
+  source_ids:
+  - BRIEF
+  - L7
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-COM-001
+  title: More than one way to contribute
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - teams
+  - line_managers
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Ask participants what combination of speech, sign, text and advance input works. For AAC users, protect
+    time to complete a contribution and offer an accessible queue or typed route. Do not finish someone's sentences
+    or assume that slow speech means slow thought. A contribution sent before or after a meeting can be as valuable
+    as one made live.
+  outcome: People can contribute without avoidable time pressure or disclosure.
+  barriers:
+  - meeting-participation
+  owner_role: meeting_organiser
+  workflow_id: W1
+  canonical_path: docs/04-communication.md#meeting-participation
+  limitations: No platform or communication mode is accessible for every participant; speed is not a proxy for contribution.
+  source_ids:
+  - BRIEF
+  - DFW-04
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-COM-002
+  title: Arrange Deaf and hearing access individually
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - teams
+  - line_managers
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Ask about the person's language and communication needs. Not every Deaf person signs, and not every
+    hard-of-hearing person lipreads. Depending on preferences, arrange qualified interpretation, captions, hearing
+    support, text or other provision. Check captions and technical arrangements in practice rather than assuming
+    automatic transcription is accurate enough.
+  outcome: Participants can follow the full discussion and respond.
+  barriers:
+  - deaf-access
+  owner_role: meeting_organiser
+  workflow_id: W1
+  canonical_path: docs/04-communication.md#deaf-access
+  limitations: Ask and verify access; do not prescribe a seat, lipreading or signing from hearing status.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-COM-003
+  title: Clarity, processing and feedback
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Agree preferences for text, voice, demonstration, structured notes and check-ins. Give instructions
+    with the goal, priority, action, owner and date, and confirm verbal changes in an accessible written form where
+    helpful. Distinguish required action from background information. Avoid relying on metaphor, hints or institutional
+    knowledge to communicate a concern.
+  outcome: People know what is expected and can respond in a usable format.
+  barriers:
+  - clear-instructions
+  owner_role: line_manager
+  workflow_id: W1
+  canonical_path: docs/04-communication.md#clear-instructions
+  limitations: Clear and direct feedback must remain respectful; it does not justify bluntness, infantilisation
+    or unilateral monitoring.
+  source_ids:
+  - BRIEF
+  - DFW-04
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-COM-004
+  title: Use accessible information and shared spaces
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Check actual use of email, policies, PDFs, charts, slides, whiteboards and co-working tools. Use meaningful
+    headings and links, logical reading order, readable text and equivalent information beyond colour or images.
+    Provide chart findings and structured data as appropriate. Give text directions alongside maps. Keep alternatives
+    current when information changes.
+  outcome: Everyone can obtain the same information and act on it.
+  barriers:
+  - documents-tools
+  owner_role: process_owner
+  workflow_id: W1
+  canonical_path: docs/04-communication.md#documents-tools
+  limitations: A workaround is not closure until the person can complete the intended goal with acceptable privacy
+    and effort.
+  source_ids:
+  - BRIEF
+  - DFW-06
+  - DFW-08
+  - DFW-09
+  - DFW-14
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-WRK-001
+  title: Work patterns and legitimate outcomes
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Discuss when, where and how tasks can be done, including shifts, start/finish times, breaks, travel,
+    task sequencing and remote activities. Identify actual duties requiring presence or cover instead of treating
+    a job title as a prohibition. Distinguish the statutory flexible-working route from a disability-related adjustment;
+    HR should identify which duties apply.
+  outcome: Working arrangements support sustainable contribution and real job needs.
+  barriers:
+  - flexibility
+  owner_role: line_manager
+  workflow_id: W1
+  canonical_path: docs/05-work-design.md#flexibility
+  limitations: Flexibility is not unlimited and presence requirements are not automatically decisive; assess the
+    particular work and support options.
+  source_ids:
+  - BRIEF
+  - L2
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-WRK-002
+  title: Physical and sensory access
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Review arrival, entrances, toilets, lifts, desk access, lighting, acoustics, temperature, signage and
+    emergency arrangements. Include the remote workstation and travel between work sites where relevant. Ask about
+    the actual task and environment rather than ordering standard equipment from a diagnosis.
+  outcome: People can use the workplace safely and comfortably enough to do their work.
+  barriers:
+  - physical-sensory
+  owner_role: facilities_owner
+  workflow_id: W1
+  canonical_path: docs/05-work-design.md#physical-sensory
+  limitations: Equipment and quiet areas are options to evaluate, not guaranteed fixes or substitutes for safe staffing
+    and accessible design.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-WRK-003
+  title: Train and change without avoidable disruption
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Before a change, identify affected tasks, interaction methods and existing adjustments. Explain what
+    will change, when and why; provide accessible training, practice and support. A sandbox, worked example, short
+    text guide or paced demonstration may be more useful than a single large presentation. Allow time for learning
+    without automatically treating it as lower performance.
+  outcome: People retain access when systems, workplaces or responsibilities change.
+  barriers:
+  - change-training
+  owner_role: process_owner
+  workflow_id: W1
+  canonical_path: docs/05-work-design.md#change-training
+  limitations: Awareness training alone cannot compensate for inaccessible tools, inadequate time or missing implementation
+    ownership.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-ADJ-001
+  title: Open a practical support conversation
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Accept requests through speech, text or another usable route. A person does not need to use the legal
+    phrase “reasonable adjustment” to start a practical discussion. Ask privately what task is affected, the impact,
+    what helps, what has been tried and what they want to happen next. Do not demand a diagnosis for ordinary support.
+  outcome: A person can raise a barrier and receive a clear next step.
+  barriers:
+  - conversation
+  owner_role: line_manager
+  workflow_id: W1
+  canonical_path: docs/06-adjustments.md#conversation
+  limitations: Practical support need not await diagnosis; legal disability and reasonableness questions still require
+    context and appropriate advice.
+  source_ids:
+  - BRIEF
+  - L1
+  - L11
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-ADJ-002
+  title: Decide, implement and review
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Consider changes to methods, arrangements, tools, environment and support with the person. Involve
+    the owners who can deliver each part. Record the barrier, proposed response, implementation owner, funding,
+    dependencies, interim support and review date. A purchased licence or approved request is not proof of working
+    access.
+  outcome: An effective adjustment has ownership, implementation and a fair challenge route.
+  barriers:
+  - decide-review
+  owner_role: hr
+  workflow_id: W1
+  canonical_path: docs/06-adjustments.md#decide-review
+  limitations: Decisions are individual; neither a catalogue nor a previous employee case settles what is reasonable
+    in another case.
+  source_ids:
+  - BRIEF
+  - L1
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-ADJ-003
+  title: Separate employer funding from additional support
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: The employer is responsible for funding adjustments it is legally required to make. Coordinate the
+    appropriate internal budget and escalation rather than making an employee negotiate departmental accounts. Access
+    to Work may support eligible additional needs; it is not a substitute for employer-funded reasonable adjustments.
+    Check current eligibility and agreed costs directly with the scheme.
+  outcome: Funding processes do not transfer the burden to the employee or delay access.
+  barriers:
+  - funding
+  owner_role: hr
+  workflow_id: W1
+  canonical_path: docs/06-adjustments.md#funding
+  limitations: Grant eligibility, contribution and reimbursement are scheme decisions; this guide makes no funding
+    guarantee.
+  source_ids:
+  - BRIEF
+  - L3
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-SYS-001
+  title: Respond to an inaccessible system or benefit
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Include payroll, HR, intranet, learning, employee assistance, mental-health support, benefits, collaboration,
+    expenses and authentication in the service inventory. Ask whether people can achieve the real goal, not just
+    open the application. An inaccessible benefit can exclude someone from support offered to colleagues.
+  outcome: People can use essential services with confidentiality and timely access.
+  barriers:
+  - barrier-response
+  owner_role: service_owner
+  workflow_id: W2
+  canonical_path: docs/07-systems.md#barrier-response
+  limitations: Do not assert automatic discrimination, personal liability or supplier breach from the defect alone.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-SYS-002
+  title: Evaluate tasks and cumulative burden
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Describe the goal, tasks, subtasks, alternatives and recovery routes. Observe representative use with
+    voluntary, accessible participation, alongside what people report. Compare success, errors, steps, effort, fatigue,
+    privacy, independence and time. Account for task familiarity, training, device, configuration and practice effects.
+    Report uncertainty and use repeated observations where practical.
+  outcome: Evidence identifies system friction without ranking employees.
+  barriers:
+  - task-analysis
+  owner_role: accessibility_lead
+  workflow_id: W2
+  canonical_path: docs/07-systems.md#task-analysis
+  limitations: The task-analysis method is adapted for employment safeguards; small samples do not establish population
+    differences or individual capacity.
+  source_ids:
+  - BRIEF
+  - DFW-10
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-SYS-003
+  title: Commission and remedy accessible services
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Before purchase, define representative employee goals, access needs, evidence required, testing, support
+    routes and contract responsibilities. Examine the actual product version and end-to-end workflow rather than
+    accepting a declaration or badge as proof. Include implementation, training, accessible support, updates and
+    exported content.
+  outcome: Supplier and internal commitments lead to verified fixes.
+  barriers:
+  - supplier-remediation
+  owner_role: procurement_owner
+  workflow_id: W2
+  canonical_path: docs/07-systems.md#supplier-remediation
+  limitations: A contract claim is not an employment adjustment; pursue supplier remedies while maintaining access
+    for staff.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-PER-001
+  title: Evaluate access before attributing poor performance
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: State the work outcome, justified expectation and observable issue. Check whether the instructions,
+    training, workload, tools and agreed adjustments were usable and delivered. Ask privately about barriers and
+    allow the person to respond in a usable format. Separate observed facts from assumptions about motivation, personality
+    or health.
+  outcome: Concerns are assessed on fair evidence with access and support in place.
+  barriers:
+  - fair-review
+  owner_role: line_manager
+  workflow_id: W3
+  canonical_path: docs/08-performance.md#fair-review
+  limitations: This process supports fair judgement and does not determine whether a particular disciplinary decision
+    is lawful.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-PER-002
+  title: Absence, recovery and returning to work
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Discuss what absence or medical appointments mean for the work, with appropriate privacy. Consider
+    adjusted trigger points, separate recording or disability leave where relevant, rather than mechanically applying
+    a standard trigger. Agree the approach and explain how records will be used; do not promise that all disability-related
+    absence is automatically excluded.
+  outcome: Attendance arrangements and return plans account for individual circumstances.
+  barriers:
+  - absence-return
+  owner_role: hr
+  workflow_id: W3
+  canonical_path: docs/08-performance.md#absence-return
+  limitations: Absence adjustments are context-specific; the guide does not prescribe unlimited leave, pay or an
+    automatic exemption from review.
+  source_ids:
+  - BRIEF
+  - L5
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-PER-003
+  title: Make formal procedures accessible
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Provide clear notice of the issue, relevant material, preparation time and accessible response methods.
+    Agree formats, communication support, breaks and meeting arrangements. Explain the applicable accompaniment
+    rights and consider whether another support person is needed as an adjustment or permitted by policy; these
+    are distinct grounds.
+  outcome: People can understand, participate in and challenge formal decisions.
+  barriers:
+  - formal-process
+  owner_role: hr
+  workflow_id: W3
+  canonical_path: docs/08-performance.md#formal-process
+  limitations: Detailed procedural entitlements depend on meeting type, status and jurisdiction; verify current
+    law and policy.
+  source_ids:
+  - BRIEF
+  - L12
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-CUL-001
+  title: Practical awareness and respectful support
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - progression
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Provide accessible, role-specific training in disability, Deaf awareness, neurodivergence, privacy,
+    communication and responding to barriers. Use practical situations and refresh learning through normal work.
+    Do not identify staff as teaching examples or require disclosure. Include paid lived-experience expertise with
+    clear choice over participation and attribution.
+  outcome: Inclusion is reinforced through everyday behaviour and accessible learning.
+  barriers:
+  - everyday-culture
+  owner_role: line_manager
+  workflow_id: W4
+  canonical_path: docs/09-culture.md#everyday-culture
+  limitations: Training, networks and voluntary inclusion schemes support capability but do not prove compliance
+    or replace operational change.
+  source_ids:
+  - BRIEF
+  - DFW-17
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-CUL-002
+  title: Make development and progression equitable
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - progression
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Review access to stretch assignments, learning, mentoring, sponsorship, performance evidence and promotion
+    panels. Publish criteria that reflect the work. Offer technical, specialist and other contribution routes alongside
+    people management where the organisation supports them; do not assume every expert should manage staff to advance.
+  outcome: People can grow, earn and lead without having to conform to one career style.
+  barriers:
+  - progression
+  owner_role: hr
+  workflow_id: W4
+  canonical_path: docs/09-culture.md#progression
+  limitations: Career paths must be resourced and published; do not promise a promotion route that has not been
+    adopted.
+  source_ids:
+  - BRIEF
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-CUL-003
+  title: Solve shared problems without exposing a colleague
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - progression
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Ask privately whether the affected person wants team input and what may be shared. Frame the challenge
+    around the process, goal or activity. Explore alternatives, including changes that initially seem unfamiliar,
+    and test whether they work. Do not make the colleague's disability the team-building puzzle.
+  outcome: Teams can improve a process while respecting choice and independence.
+  barriers:
+  - team-solutions
+  owner_role: line_manager
+  workflow_id: W4
+  canonical_path: docs/09-culture.md#team-solutions
+  limitations: Permission to try a team solution is not permission to publish a personal story or medical information.
+  source_ids:
+  - BRIEF
+  - DFW-17
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-AI-001
+  title: Explore optional AI support
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: 'Start with a person-chosen task: organising instructions, drafting a summary, reformatting information
+    or supporting an interaction through an authorised interface. Investigate whether AI reduces the actual barrier
+    and effort. Provide an accessible non-AI route and make declining or stopping the trial consequence-free.'
+  outcome: People can trial useful support with choice, privacy and a workable alternative.
+  barriers:
+  - optional-support
+  owner_role: ai_service_owner
+  workflow_id: W5
+  canonical_path: docs/10-ai.md#optional-support
+  limitations: AI is an option to evaluate, not a compulsory adjustment or a cure for an inaccessible service.
+  source_ids:
+  - BRIEF
+  - DFW-08
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-AI-002
+  title: Bound agent actions and employment decisions
+  authority_type: organisational_policy
+  directive: must
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Begin with read-only access where appropriate. Grant action permissions only for a defined task with
+    an authorised user, minimum access, clear confirmation points, logging and recovery. Separate drafting from
+    sending, editing from approving, and suggesting from making a consequential decision. Check the interface remains
+    usable with the person's assistive technology.
+  outcome: Automation supports people without profiling or deciding their employment outcomes.
+  barriers:
+  - agent-boundaries
+  owner_role: ai_service_owner
+  workflow_id: W5
+  canonical_path: docs/10-ai.md#agent-boundaries
+  limitations: These are repository governance boundaries, not a claim that every prohibition is a verbatim statutory
+    rule.
+  source_ids:
+  - BRIEF
+  - L10
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-EVA-001
+  title: Measure the experience and the response
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Track adjustment acknowledgement and implementation, whether support works for the person, recurring
+    barriers and unresolved access to essential services. Include independence, effort, errors, fatigue, confidence,
+    satisfaction, belonging, learning and progression. Training completion, scheme membership and equipment purchases
+    describe activity; they do not prove outcomes.
+  outcome: Improvement reflects actual participation rather than activity counts.
+  barriers:
+  - outcomes
+  owner_role: knowledge_base_owner
+  workflow_id: W1
+  canonical_path: docs/11-evaluation.md#outcomes
+  limitations: Small samples and self-selection limit conclusions; avoid unsupported causal claims or universal
+    timing tolerances.
+  source_ids:
+  - BRIEF
+  - DFW-10
+  - DFW-11
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-EVA-002
+  title: Collect less and protect meaning
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Separate confidential support records from optional equality monitoring. Determine lawful purpose,
+    necessary data, access controls, retention and relevant health-data conditions before collection. Agreement
+    about a meeting preference does not automatically authorise all health-data processing. Do not infer disability
+    from use of assistive technology or a particular tool.
+  outcome: Learning does not create intrusive employment or disability profiles.
+  barriers:
+  - data-ethics
+  owner_role: privacy_owner
+  workflow_id: W1
+  canonical_path: docs/11-evaluation.md#data-ethics
+  limitations: The knowledge base provides synthetic structures, not authority or infrastructure to process employee
+    cases.
+  source_ids:
+  - BRIEF
+  - DFW-07
+  - L7
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null
+- id: IE-EVA-003
+  title: Connect commitments to ownership and review
+  authority_type: double_fw_method
+  directive: should
+  adoption_status: proposed
+  audiences:
+  - line_managers
+  - hr
+  - teams
+  lifecycle_stages:
+  - daily_work
+  settings:
+  - remote
+  - hybrid
+  - onsite
+  jurisdiction: general_practice
+  statement: Assign an executive sponsor, operational owner and responsible roles for HR, IT, procurement, facilities,
+    privacy and review. Connect commitments to activities, resources, evidence and reporting. Champions enable local
+    capability with protected time and support; they do not absorb every unresolved case.
+  outcome: Commitments result in funded action and honest public claims.
+  barriers:
+  - governance
+  owner_role: executive_sponsor
+  workflow_id: W1
+  canonical_path: docs/11-evaluation.md#governance
+  limitations: Owners, budgets and approvals must be appointed by the organisation; this draft does not invent them.
+  source_ids:
+  - BRIEF
+  - DFW-11
+  - DFW-12
+  - DFW-16
+  - DFW-17
+  verification: Review the intended outcome and practical arrangements with affected people; record limits and follow-up.
+  review_status: draft
+  reviewed_on: null
+  review_due: null
+  reviewer: null

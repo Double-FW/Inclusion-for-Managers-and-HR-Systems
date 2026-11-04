@@ -1,0 +1,113 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "repository": {
+      "type": "string",
+      "minLength": 1
+    },
+    "purpose": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "enum": [
+        "file_reviewed",
+        "readme_reviewed",
+        "unavailable"
+      ]
+    },
+    "reviewed_commit": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[a-f0-9]{40}$"
+    },
+    "reviewed_file": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewed_blob": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[a-f0-9]{40}$"
+    },
+    "pinned_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "adaptation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "next_action": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "id",
+    "source_id",
+    "repository",
+    "purpose",
+    "status",
+    "reviewed_commit",
+    "reviewed_file",
+    "reviewed_blob",
+    "pinned_url",
+    "adaptation",
+    "next_action"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/inclusive-employment/dependency.schema.json",
+  "title": "dependency",
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "enum": [
+              "file_reviewed",
+              "readme_reviewed"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "reviewed_commit": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{40}$"
+          },
+          "reviewed_blob": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{40}$"
+          },
+          "pinned_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "reviewed_file": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  ]
+}
