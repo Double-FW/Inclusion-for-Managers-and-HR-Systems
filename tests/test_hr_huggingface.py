@@ -168,4 +168,16 @@ class HRSyncTests(unittest.TestCase):
         self.assertTrue(any(x['mentioned_guidance_ids'] for x in rows))
         self.assertFalse(json.loads((self.out/'provenance.json').read_text())['external_sources_fetched'])
 
+
+    def test_shared_source_qualifications_remain_attached_to_each_register_entry(self):
+        self.build()
+        rows=[r for r in self.rows('knowledge_chunks.jsonl') if r['source_path']=='sources/source-register.md']
+        legal=[r for r in rows if r['heading_path'] and __import__('re').fullmatch(r'L\d+',r['heading_path'][-1])]
+        self.assertEqual(len(legal),24)
+        for row in legal:
+            self.assertIn('Recorded access date:',row['text'])
+            self.assertIn('LEGAL-REVIEW',row['text'])
+            self.assertIn('no qualified legal approval',row['source_document_intro'])
+            self.assertIn('linked references do not grant reuse permission',row['source_document_intro'])
+
 if __name__ == '__main__': unittest.main()

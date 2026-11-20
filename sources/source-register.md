@@ -2,6 +2,16 @@
 
 Source IDs connect practical sections to their origins and advice routes. Dates and scope reflect the original preparation on 4 November 2026; this knowledge-only edition does not claim a new source or legal audit. Source availability, legal currency and reuse rights are different questions.
 
+### Shared source qualifications
+
+**Reuse qualification — all entries:** Source-level rights need checking before reproduction; linked references do not grant reuse permission. Individual source records retain their access date and specific review scope.
+
+**LEGAL-REVIEW — L1–L24:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification. Each record's own type, reviewed material and scope remain additional limitations, not replaced by this shared qualification.
+
+**Unavailable historical references:** Five Double FW entries retain their source IDs, titles and original “Not retrieved” status, but their unusable private-repository hyperlinks have been removed. The recorded historical not-found response is not a new review or recovery of their contents. Use the edition's [public methods](../methods/README.md) for available practical guidance; those methods are not claimed to reproduce the missing sources.
+
+**Maintenance — 20 November 2026:** Common qualifications are stated once for human reading. When retrieving an entry independently, retain its ID, date, type, scope and this shared qualification text. The dataset exporter attaches this document introduction to each source-register record; that is context metadata, not new source evidence or legal approval. This maintenance does not change the original 4 November review date.
+
 ## BRIEF
 
 <a id="brief"></a>
@@ -16,15 +26,13 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Deceptive_Patterns_and-Inclusive_Experience_Evaluation**
 
-[Source](https://github.com/Double-FW/Deceptive_Patterns_and-Inclusive_Experience_Evaluation)
-
 **Type:** Double FW guidance or method · **Scope:** Not retrieved
 
 **Relevant material:** Not retrieved.
 
 **Review limit:** GitHub returned not found; visibility or existence not inferred
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-02
 
@@ -32,15 +40,13 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Inclusive-Corporate-Events**
 
-[Source](https://github.com/Double-FW/Inclusive-Corporate-Events)
-
 **Type:** Double FW guidance or method · **Scope:** Not retrieved
 
 **Relevant material:** Not retrieved.
 
 **Review limit:** GitHub returned not found; visibility or existence not inferred
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-03
 
@@ -58,7 +64,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** f1cafb621f1176c6498bbe820f981e81925b9c1d.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-04
 
@@ -76,7 +82,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** a6d0f2751bdc67a19e7d3f9c9645a7a93303a6e4.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-05
 
@@ -84,15 +90,13 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Organisation_Governance_and_Strategy**
 
-[Source](https://github.com/Double-FW/Organisation_Governance_and_Strategy)
-
 **Type:** Double FW guidance or method · **Scope:** Not retrieved
 
 **Relevant material:** Not retrieved.
 
 **Review limit:** GitHub returned not found; visibility or existence not inferred
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-06
 
@@ -110,7 +114,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** c26e2da779d569b0cc2698a192ea700fc7bdd476.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-07
 
@@ -128,7 +132,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** 3db809cb035e53bc1825f884f3979fdc73f793a2.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-08
 
@@ -146,7 +150,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** 491d223e6daf9d75ef31fcb0da1bac144e7072c4.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-09
 
@@ -164,7 +168,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** e877b4972d2b6e8021f941757b7908d2be90eaa4.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-10
 
@@ -182,7 +186,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** 41d2f06c94160b53418b9eefc18bf5143efa1251.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-11
 
@@ -200,7 +204,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** 7da7309b131378143589ed079e136d96d9ec1b20.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-12
 
@@ -218,7 +222,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** 5e296922234a50a0c2fa4b6cc187a8745ca55d73.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-13
 
@@ -226,15 +230,13 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Accessible-Workspaces-Checklist**
 
-[Source](https://github.com/Double-FW/Accessible-Workspaces-Checklist)
-
 **Type:** Double FW guidance or method · **Scope:** Not retrieved
 
 **Relevant material:** Not retrieved.
 
 **Review limit:** GitHub returned not found; visibility or existence not inferred
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-14
 
@@ -252,7 +254,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** c6742173b1bba6dd6ba4dc837c3f19a2af328920.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-15
 
@@ -260,15 +262,13 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Disabled-Employee-Lifecycle**
 
-[Source](https://github.com/Double-FW/Disabled-Employee-Lifecycle)
-
 **Type:** Double FW guidance or method · **Scope:** Not retrieved
 
 **Relevant material:** Not retrieved.
 
 **Review limit:** GitHub returned not found; visibility or existence not inferred
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-16
 
@@ -286,7 +286,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** 145b4b2d2ae0680ca0d4c481dbbd077a31beb761.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## DFW-17
 
@@ -304,7 +304,7 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Recorded revision:** a06fc29c6c4545b4aef30cf4df94f4ade1d142fd.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L1
 
@@ -318,9 +318,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Who pays; reasonableness and individual arrangements.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L2
 
@@ -334,9 +334,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Separate routes for flexible working and disability adjustments.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L3
 
@@ -350,9 +350,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Scope and exclusion of employer reasonable adjustments.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L4
 
@@ -366,9 +366,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Separate jurisdiction.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L5
 
@@ -382,9 +382,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Individual trigger and recording arrangements.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L6
 
@@ -398,9 +398,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Pre-offer health enquiries and exceptions.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L7
 
@@ -414,9 +414,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Lawful basis, special-category conditions, employment consent.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L8
 
@@ -430,9 +430,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Professional guidance on instrument validity and reliability; not itself a research study.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L9
 
@@ -446,9 +446,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Voluntary scheme.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L10
 
@@ -462,9 +462,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Automation, transparency and fairness; verify current law before deployment.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L11
 
@@ -478,9 +478,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Discussing needs, functional advice and written agreement.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L12
 
@@ -494,9 +494,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Companion categories and possible wider adjustment support.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L13
 
@@ -510,9 +510,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Section 6 and relationship to Schedule 1.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L14
 
@@ -526,9 +526,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Section 20; verify current text, section 21 and Schedule 8.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L15
 
@@ -542,9 +542,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Schedule 8 paragraph 20.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L16
 
@@ -558,9 +558,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Schedule 1 including long-term effects and specified conditions.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L17
 
@@ -574,9 +574,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Employees and applicants; full current text remains to be checked.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L18
 
@@ -590,9 +590,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Section 15, justification and knowledge.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L19
 
@@ -606,9 +606,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Section 13.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L20
 
@@ -622,9 +622,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Section 19; current amendments require review.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L21
 
@@ -638,9 +638,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Section 26.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L22
 
@@ -654,9 +654,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Section 27.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L23
 
@@ -670,9 +670,9 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Code scope; current review/consultation must not be treated as enacted change.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
 
 ## L24
 
@@ -686,6 +686,6 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Relevant material:** Employment scope and local advice routing.
 
-**Review limit:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification.
+**Review qualification:** LEGAL-REVIEW; entry-specific scope also applies.
 
-**Recorded access date:** 2026-11-04. Source-level rights need checking before reproduction; linked references do not grant reuse permission.
+**Recorded access date:** 2026-11-04.
