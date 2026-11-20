@@ -12,7 +12,7 @@ Inclusion means people can access opportunity, contribute, influence decisions, 
 
 Each tree is a triage and routing aid. It identifies a next action, responsible role and outcome to examine. It does not independently establish a diagnosis, legal reasonableness, entitlement, funding award, contractual breach or the outcome of recruitment, discipline, promotion or dismissal. Authorised humans retain consequential decisions and should use appropriately qualified advice where needed. An agent may help retrieve, explain, prepare and coordinate within its actual authority; this knowledge does not itself authorise contacting anyone, changing records or acting in an external system.
 
-The document is a companion to the [Inclusive Employment Human and RAG Knowledge Edition v1.0](https://chatgpt.com/library?file_id=libfile_5f80ec31a2588191936ee828e68227e5&account_id=personal). Its practical knowledge is synthesised here into decision trees. Source dates and review limits remain those recorded in that edition; this is not a new legal or funding audit. Great Britain, Northern Ireland and other contexts need the relevant scope check in [DT-33](#dt-33). Specific legal questions remain starting points for advice.
+The document is a companion to the [Inclusive Employment Human and RAG Knowledge Edition v1.0](README.md). Its practical knowledge is synthesised here into decision trees. The public edition is available in this repository; use its [source register](sources/source-register.md) and [editorial qualifications](sources/editorial-qualifications.md). Source dates and review limits remain those recorded in that edition; this is not a new legal or funding audit. Great Britain, Northern Ireland and other contexts need the relevant scope check in [DT-33](#dt-33). Specific legal questions remain starting points for advice.
 
 ## How to follow a tree
 
@@ -2131,7 +2131,7 @@ flowchart TD
 
 ## Supporting knowledge and provenance
 
-The paths below identify documents inside the companion Knowledge Edition v1.0. They are reference paths rather than links to files assumed to be present beside this standalone document. Each tree links to the relevant group here. The [companion archive](https://chatgpt.com/library?file_id=libfile_5f80ec31a2588191936ee828e68227e5&account_id=personal) contains the full guidance and its source register.
+The paths below identify documents inside the companion Knowledge Edition v1.0. They are reference paths rather than links to files assumed to be present beside this standalone document. Each tree links to the relevant group here. The [companion archive](README.md) contains the full guidance and its source register.
 
 The trees are editorial syntheses of that knowledge, not forty separate research findings or validated assessment tools. Available source material, unavailable dependencies, legal review limits and synthetic examples retain their original status. No new evidence of legal accuracy, staff outcomes or live agent performance is claimed by arranging the knowledge as branches.
 
