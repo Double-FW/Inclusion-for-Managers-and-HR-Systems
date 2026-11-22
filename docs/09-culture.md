@@ -36,6 +36,8 @@ Check whether flexible or part-time staff miss informal opportunities, whether a
 
 Apply the same accessible assessment principles used in recruitment. Include organisational change, redeployment, retirement and exit: use clear information, accessible consultation and a fair review route. Invite voluntary exit feedback without pressuring people to give a diagnosis or attributing every departure to inclusion.
 
+For leaving or retirement, offer usable process information and voluntary feedback without pressuring the person to stay, disclose health information or join an alumni network. If alumni contact is offered, establish actual choice, purpose and handling arrangements separately from the exit process; do not transfer confidential support records by default. Use the [exit and learning guidance](../guidance/lifecycle-source-crosswalk.md#exit-learning-and-optional-alumni-contact).
+
 **Boundary:** Career paths must be resourced and published; do not promise a promotion route that has not been adopted.
 
 **Evidence:** [BRIEF](../sources/source-register.md#brief).

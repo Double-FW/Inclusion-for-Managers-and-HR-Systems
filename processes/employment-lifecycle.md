@@ -23,3 +23,12 @@ Before a transition, ask which arrangements work, what will change, what informa
 ## Learning across stages
 
 Review whether barriers recur between stages. A successful interview followed by inaccessible benefits or learning is a lifecycle failure. Retention, departures and complaint counts are signals to explore, not proof of success or failure on their own. Use [outcome evaluation](../methods/outcome-evaluation.md).
+
+
+## Connect the six-phase framework without losing transition detail
+
+The public [Disabled Employee Lifecycle](https://github.com/Double-FW/Disabled-Employee-Lifecycle) framework adds a strategic six-phase view, including attraction, exit and alumni engagement. Use the [phase-to-practice crosswalk](../guidance/lifecycle-source-crosswalk.md) to connect it to this edition’s eleven stages and forty decision routes. Absence, return, manager or role changes and redeployment can recur across phases; they are not gaps to discard when simplifying a lifecycle diagram.
+
+At each transition, confirm effective arrangements, changed tasks/tools, minimum information-sharing boundaries, coordinator and delivery owner, interim access, outcome evidence and the route to reopen a concern. Do not restart every support request automatically or assume that approval at the earlier stage establishes usable access in the next.
+
+Offer accessible exit steps and optional feedback. If an alumni service exists, participation and contact choices are separate from exit support; do not carry personnel or health records into alumni systems by default. See [DFW-15](../sources/source-register.md#dfw-15) for reviewed scope and source limitations.

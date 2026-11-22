@@ -39,3 +39,6 @@ A passport is a support tool, not a waiver of rights or permission to collect a 
 **Boundary:** Agreement about practical sharing does not by itself establish a lawful basis for all health-data processing.
 
 **Evidence:** [BRIEF](../sources/source-register.md#brief), [L7](../sources/source-register.md#l7).
+
+
+**Related lifecycle framework:** Use the [transition questions](../guidance/lifecycle-source-crosswalk.md#continuity-at-a-transition) when moving from offer to induction or between managers, roles and sites. Link preparation to the tasks the person will actually perform and confirm who owns implementation; a completed passport or equipment order does not establish that access works.

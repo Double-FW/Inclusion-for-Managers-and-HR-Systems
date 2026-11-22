@@ -15,6 +15,7 @@ A Markdown knowledge collection for people and retrieval-augmented generation (R
 | Investigate an inaccessible system or benefit | [System workflow](workflows/system-barriers.md) and [task analysis](methods/comparative-task-analysis.md) |
 | Address performance, absence or a return to work | [Fair-review workflow](workflows/fair-performance.md) and [return checklist](checklists/absence-and-return.md) |
 | Support progression, culture and shared solutions | [Culture and progression](docs/09-culture.md) and [team workflow](workflows/team-solutions.md) |
+| Plan whole-lifecycle continuity, transitions or exit | [Lifecycle process](processes/employment-lifecycle.md) and [six-phase framework crosswalk](guidance/lifecycle-source-crosswalk.md) |
 | Explore AI support | [AI guidance](docs/10-ai.md) and [optional trial workflow](workflows/ai-trials.md) |
 | Prepare for HR, legal or privacy advice | [Legal starting questions](legal-questions/README.md) |
 | Learn from examples and data | [Scenarios](scenarios/README.md), [illustrative data](data/README.md) and [barrier catalogue](data/barrier-catalogue.md) |
@@ -41,6 +42,7 @@ A Markdown knowledge collection for people and retrieval-augmented generation (R
 - [Checklists](checklists/README.md): practical prompts for preparation and review.
 - [Templates](templates/README.md): optional conversation and working-record structures.
 - [Best-practice opportunities](guidance/opportunities-and-best-practice.md): ideas and their conditions for success.
+- [Disabled Employee Lifecycle connection](guidance/lifecycle-source-crosswalk.md): the reviewed six-phase framework mapped to this edition’s stages, decision routes and delivery roles.
 - [Sources and limits](sources/README.md): provenance, reviewed source material, qualifications and unresolved sources.
 
 ## How to interpret the knowledge
@@ -56,3 +58,6 @@ Use the source material selectively for the question at hand. A diagnosis, templ
 This collection contains guidance, blank templates and fictional examples. Keep actual health, applicant, passport, performance and grievance records in approved confidential systems. Involve affected people, offer usable ways to contribute and respect decisions about disclosure, assistance and experimentation. See [privacy and records](guidance/privacy-and-records.md).
 
 [Provenance and rights](sources/provenance-and-rights.md) · [Editorial qualifications](sources/editorial-qualifications.md)
+
+
+**Source update — 22 November 2026:** The previously uninspected Disabled Employee Lifecycle reference now has a bounded review, direct public links and a [practical crosswalk](guidance/lifecycle-source-crosswalk.md). Other source and legal review dates are unchanged. Source-specific operational and licence issues remain qualified in [DFW-15](sources/source-register.md#dfw-15); the external AGENTS instructions are not adopted here.

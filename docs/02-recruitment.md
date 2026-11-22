@@ -18,6 +18,8 @@ Describe real location, safety, coverage and collaboration needs and which worki
 
 Publish pay, assessment format, expected duration, tools and an accessible adjustment contact. Review whether qualifications, uninterrupted employment and particular institutions are necessary rather than proxies for capability. Separate equality monitoring from the selection panel.
 
+Also review the attraction stage: can someone find and understand the opportunity, use the published contact route and obtain relevant formats without first completing an inaccessible form? Keep employer-brand inclusion claims grounded in actual practice rather than expected benefits. The [lifecycle crosswalk](../guidance/lifecycle-source-crosswalk.md#six-phases-and-local-routes) supplies the strategic connection; it does not establish observed application or hiring outcomes.
+
 **Boundary:** Anonymisation can reduce some cues; it does not remove bias from criteria or scoring.
 
 **Evidence:** [BRIEF](../sources/source-register.md#brief).

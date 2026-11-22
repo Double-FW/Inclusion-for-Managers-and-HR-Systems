@@ -1,6 +1,6 @@
 # Source register
 
-Source IDs connect practical sections to their origins and advice routes. Dates and scope reflect the original preparation on 4 November 2026; this knowledge-only edition does not claim a new source or legal audit. Source availability, legal currency and reuse rights are different questions.
+Source IDs connect practical sections to their origins and advice routes. Dates and scope reflect the original preparation on 4 November 2026 except where an entry explicitly records a later bounded review. A supplemental source review does not renew the other entries or establish a new legal audit. Source availability, legal currency and reuse rights are different questions.
 
 ### Shared source qualifications
 
@@ -8,7 +8,7 @@ Source IDs connect practical sections to their origins and advice routes. Dates 
 
 **LEGAL-REVIEW — L1–L24:** Draft editorial check only; no qualified legal approval. Search excerpts are not full current-law verification. Each record's own type, reviewed material and scope remain additional limitations, not replaced by this shared qualification.
 
-**Unavailable historical references:** Five Double FW entries retain their source IDs, titles and original “Not retrieved” status, but their unusable private-repository hyperlinks have been removed. The recorded historical not-found response is not a new review or recovery of their contents. Use the edition's [public methods](../methods/README.md) for available practical guidance; those methods are not claimed to reproduce the missing sources.
+**Unavailable historical references:** Five Double FW collections were recorded as not retrieved on 4 November. DFW-15 now has a separate, bounded public-source review dated 22 November 2026; the other four have not been rechecked in that update. Their historical not-found responses do not establish current visibility or contents. Use the edition's [public methods](../methods/README.md) for practical guidance, without claiming they reproduce uninspected sources.
 
 **Maintenance — 20 November 2026:** Common qualifications are stated once for human reading. When retrieving an entry independently, retain its ID, date, type, scope and this shared qualification text. The dataset exporter attaches this document introduction to each source-register record; that is context metadata, not new source evidence or legal approval. This maintenance does not change the original 4 November review date.
 
@@ -262,13 +262,19 @@ Origin: the supplied inclusive-employment ideas and development brief, reorganis
 
 **Disabled-Employee-Lifecycle**
 
-**Type:** Double FW guidance or method · **Scope:** Not retrieved
+[Public repository](https://github.com/Double-FW/Disabled-Employee-Lifecycle) · [Reviewed lifecycle guide](https://github.com/Double-FW/Disabled-Employee-Lifecycle/blob/09f550787d2d46100639abd1676c666e05f0a74a/Accessibility%20in%20the%20Employee%20Lifecycle.md) · [Local crosswalk](../guidance/lifecycle-source-crosswalk.md)
 
-**Relevant material:** Not retrieved.
+**Type:** Double FW narrative framework; local editorial mapping · **Scope:** Six-phase lifecycle guide fully read; README and AGENTS.md inspected for scope and boundaries.
 
-**Review limit:** GitHub returned not found; visibility or existence not inferred
+**Relevant material:** Awareness/attraction; recruitment/hiring; onboarding/early experience; daily work/enablement; career development/progression; exit/alumni; cross-cutting manager capability. Mapped to this edition’s detailed stages, transition questions, owners and outcome evidence.
 
-**Recorded access date:** 2026-11-04.
+**Review limit:** Practitioner guidance, not an independently validated lifecycle instrument, adopted employer policy or evidence that proposed business benefits occurred. The source AGENTS.md conflicts with its root MIT licence by declaring CC-BY-4.0, includes truncated text and asserts operational controls; its instructions, operational claims, timelines and retention settings are not imported. The opinion/AI-transcript article’s metadata and opening framing were inspected only; its transcript is not used as empirical evidence. No blanket source, current-law or source-rights clearance is implied.
+
+**Recorded revision:** `09f550787d2d46100639abd1676c666e05f0a74a`.
+
+**Historical access attempt:** 2026-11-04 — not retrieved; the recorded not-found response did not establish visibility or existence.
+
+**Supplemental public-source review:** 2026-11-22 — repository public and main lifecycle guide retrieved. This does not change other sources’ historical review dates or resolve the source-specific licence inconsistency.
 
 ## DFW-16
 

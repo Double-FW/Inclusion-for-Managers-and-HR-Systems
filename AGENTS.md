@@ -93,6 +93,7 @@ After editing:
 
 - User navigation and knowledge map: `README.md`
 - Lifecycle stages and continuity: `processes/employment-lifecycle.md`
+- Reviewed external lifecycle mapping and limits: `guidance/lifecycle-source-crosswalk.md`, `sources/source-register.md#dfw-15`
 - Ownership, handover, escalation, closure: `processes/responsibilities-and-escalation.md`
 - Adjustment lifecycle: `workflows/adjustments.md`
 - Legal questions and jurisdiction: `legal-questions/README.md`
