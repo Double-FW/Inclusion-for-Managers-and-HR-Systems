@@ -1,7 +1,7 @@
 {
   "source_repository": "Double-FW/Inclusion-for-Managers-and-HR-Systems",
   "destination_dataset": "GarethFW/Inclusive_HR_System_Governance",
-  "dataset_version": "1.0.0",
+  "dataset_version": "1.0.1",
   "files": [
     "AGENTS.md",
     "Inclusive_Employment_Lifecycle_Decision_Trees_v1_0.md",
@@ -34,6 +34,7 @@
     "docs/09-culture.md",
     "docs/10-ai.md",
     "docs/11-evaluation.md",
+    "guidance/lifecycle-source-crosswalk.md",
     "guidance/opportunities-and-best-practice.md",
     "guidance/privacy-and-records.md",
     "legal-questions/README.md",
@@ -124,7 +125,8 @@
     "guidance/privacy-and-records.md",
     "legal-questions/README.md",
     "processes/responsibilities-and-escalation.md",
-    "workflows/adjustments.md"
+    "workflows/adjustments.md",
+    "guidance/lifecycle-source-crosswalk.md"
   ],
   "synthetic_files": [
     "scenarios/sc-01.md",

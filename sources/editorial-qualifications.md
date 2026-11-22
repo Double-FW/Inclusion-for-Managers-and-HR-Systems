@@ -23,3 +23,8 @@ The collection preserves the practical aim of removing barriers while avoiding u
 | A mnemonic is an established evidence-based method | Treat the supplied SHAPE wording as an unverified organising aid only |
 
 The source review is bounded: twelve READMEs and six relevant detailed documents were retrieved during preparation; five requested collections remained unavailable. Several statutory checks used limited excerpts. Current law, applicability, staff experience and implementation outcomes have not been independently established by this editorial work.
+
+
+## Supplemental lifecycle framework review — 22 November 2026
+
+DFW-15 is now a public, reviewed lifecycle framework, with a [local crosswalk](../guidance/lifecycle-source-crosswalk.md) and [bounded source record](source-register.md#dfw-15). The original counts and dates above describe the preparation snapshot; this later review does not renew legal sources or the other uninspected collections. Retain the local eleven-stage detail and human-decision/privacy safeguards rather than replacing them with six generic phases. Treat business benefits as intended outcomes to investigate. The source’s conflicting AGENTS licence and incomplete operational wording are not imported or treated as authority.

@@ -169,6 +169,21 @@ class HRSyncTests(unittest.TestCase):
         self.assertFalse(json.loads((self.out/'provenance.json').read_text())['external_sources_fetched'])
 
 
+    def test_lifecycle_connection_is_required_and_exported_with_its_limits(self):
+        cfg=common.load_config(ROOT);path='guidance/lifecycle-source-crosswalk.md'
+        self.assertIn(path,cfg['files']);self.assertIn(path,cfg['required_files'])
+        self.build()
+        row=next(r for r in self.rows('documents.jsonl') if r['source_path']==path)
+        self.assertEqual(row['text'].encode(),self.git('show','HEAD:'+path))
+        self.assertIn('09f550787d2d46100639abd1676c666e05f0a74a',row['text'])
+        self.assertIn('not independently verified findings',row['source_document_intro'])
+        self.assertIn('not replace them or import external agent instructions',row['source_document_intro'])
+        self.assertIn('CC-BY-4.0',row['text'])
+        register=next(r for r in self.rows('knowledge_chunks.jsonl') if r['source_path']=='sources/source-register.md' and r['heading_path'][-1:] == ['DFW-15'])
+        self.assertIn('Historical access attempt:',register['text'])
+        self.assertIn('Supplemental public-source review:',register['text'])
+        self.assertIn('2026-11-04',register['text']);self.assertIn('2026-11-22',register['text'])
+
     def test_shared_source_qualifications_remain_attached_to_each_register_entry(self):
         self.build()
         rows=[r for r in self.rows('knowledge_chunks.jsonl') if r['source_path']=='sources/source-register.md']
