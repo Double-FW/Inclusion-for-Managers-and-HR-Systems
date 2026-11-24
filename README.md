@@ -61,3 +61,11 @@ This collection contains guidance, blank templates and fictional examples. Keep 
 
 
 **Source update — 22 November 2026:** The previously uninspected Disabled Employee Lifecycle reference now has a bounded review, direct public links and a [practical crosswalk](guidance/lifecycle-source-crosswalk.md). Other source and legal review dates are unchanged. Source-specific operational and licence issues remain qualified in [DFW-15](sources/source-register.md#dfw-15); the external AGENTS instructions are not adopted here.
+
+## About the author
+
+Gareth Ford Williams is a senior leader in accessibility and inclusive design and co-founder of Double FW Ltd. His work spans accessibility, UX, technical standards, assistive technology and inclusive media. At the BBC, he led accessibility and UX work and chaired standards governance, translating research and policy into practical guidance.
+
+## About Double FW Ltd
+
+Double FW Ltd is a UK accessibility and inclusive design consultancy. It helps organisations build accessibility into strategy, governance, brands, products, content and services. Its public repositories provide practical guidance for people and AI-assisted workflows.
